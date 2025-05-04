@@ -1,7 +1,7 @@
 
 # VeinScope – Tear Vein Pattern Analysis using Image Segmentation
 
-__NOTE__ to run the code download ckpts from this (link)[https://drive.google.com/drive/folders/1uL3Ux3wCsoJWa9IPWf8ksGWLJQOvmWDi?usp=sharing] and save them inside ckpts folder
+__NOTE__ to run the code download ckpts from this [link](https://drive.google.com/drive/folders/1uL3Ux3wCsoJWa9IPWf8ksGWLJQOvmWDi?usp=sharing) and save them inside ckpts folder
 
 
 A collaborative AI project focused on detecting and segmenting tear vein patterns using deep learning-based image segmentation techniques and image processing. 
